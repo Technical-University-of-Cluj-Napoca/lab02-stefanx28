@@ -2,7 +2,7 @@
 This module is implementing a search loop for autocomplete suggestions using a binary search tree (BST)
 inside the `search_loop` function.
 """
-
+import BST
 import sys
 import os
 
